@@ -25,7 +25,7 @@ This dataset is used in our [research paper](https://arxiv.org/abs/1905.0000), w
 We propose a robust visual localization approach for automotive applications.
 
 ## Dataset
-_Coming soon!_
+Our data was collected from a largescale deployment of connected dashcams. Each vehicle is equipped with a dashacam and a companion smartphone app that continuously captures and uploads sensor data such as GPS readings. The dataset published here contains 1000 video sequences taken at different lighting and weahter conditions in New York City, with their corresponding sensor data. 
 
 ## Benchmark
 _Coming soon!_
