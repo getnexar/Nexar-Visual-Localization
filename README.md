@@ -1,6 +1,7 @@
-# Nexar-Visual-Localization
 
-<img src=images/nexar_logo.png width=135/>
+<img src=images/nexar_logo.png width=150/>
+
+# Nexar-Visual-Localization
 
 ![triplets](images/triplets.png)
 
@@ -11,34 +12,29 @@ _Created by Nexar &reg;_
 The full paper describing our work is available on arxiv: [paper](https://arxiv.org/abs/1905.0000)
 
 ## News!
-___The full Visual Localization dataset will be published here soon. Stay tuned!___
+___The full Visual Localization dataset and benchmark will be published here soon. Stay tuned!___
 
 
 ## Contents
 1. [Introduction](#introduction)
-2. [Requirements](#requirements)
-3. [Quick Start](#quick-start)
-5. [Contributors](#contributors)
+2. [Dataset](#dataset)
+3. [Benchmark](#benchmark)
 6. [Citation](#citation)
 7. [License](#license)
 
 ## Introduction
-This work is based on our [research paper](https://arxiv.org/abs/1905.0000), which appears in CVPR 2019. We propose a robust visual localization approach for automotive applications.
+This dataset is used in our [research paper](https://arxiv.org/abs/1905.0000), which appears in the proceedings for CVPR 2019 Workshop on Autonomous Driving. 
+We propose a robust visual localization approach for automotive applications.
 
-## Requirements
+## Dataset
+_Coming soon!_
 
-* Python 2.7
-* Python Libraries: numpy, scipy
-* ???
-
-## Quick Start
-
-
-## Contributors
+## Benchmark
+_Coming soon!_
 
 
 ## Citation
-If you wish to use our dataset or code, please use the following bibtex for citation:
+If you wish to use our dataset, please use the following bibtex for citation:
 
 	@InProceedings{...,
 	  author = {...},
@@ -49,4 +45,4 @@ If you wish to use our dataset or code, please use the following bibtex for cita
 	}
 
 ## License
-Our code is released under Apache 2.0 License. The copyright of Nexar could be checked [here](https://getnexar.com/).
+Copyright [Nexar] (https://getnexar.com/).
