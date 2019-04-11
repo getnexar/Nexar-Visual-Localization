@@ -42,4 +42,4 @@ If you wish to use our dataset, please use the following bibtex for citation:
 	}
 
 ## License
-Copyright [Nexar](https://getnexar.com/).
+Copyright [Nexar Inc.](https://getnexar.com/).
