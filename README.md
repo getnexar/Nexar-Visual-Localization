@@ -5,15 +5,13 @@
 
 ![triplets](images/triplets.png)
 
-Extensive experiments demonstrate that extra depth information helps networks to determine driving policies indeed. We hope it will become useful resources for the autonomous driving research community.
+Accurate vehicle localization is a crucial step towards building effective Vehicle-to-Vehicle networks and automotive applications. Here, we publish our dataset for training visual localization model, based on real world data. 
 
 _Created by Nexar &reg;_
 
 The full paper describing our work is available on arxiv: [paper](https://arxiv.org/abs/1905.0000)
 
-## News!
-___The full Visual Localization dataset and benchmark will be published here soon. Stay tuned!___
-
+### ___The full Visual Localization dataset and benchmark will be published here soon. Stay tuned!___
 
 ## Contents
 1. [Introduction](#introduction)
@@ -32,7 +30,6 @@ _Coming soon!_
 ## Benchmark
 _Coming soon!_
 
-
 ## Citation
 If you wish to use our dataset, please use the following bibtex for citation:
 
@@ -45,4 +42,4 @@ If you wish to use our dataset, please use the following bibtex for citation:
 	}
 
 ## License
-Copyright [Nexar] (https://getnexar.com/).
+Copyright [Nexar](https://getnexar.com/).
