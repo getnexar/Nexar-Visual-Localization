@@ -1,4 +1,4 @@
-# Robust-Visual-Localization-for-Automotive-Applications
+# Nexar-Visual-Localization
 
 <img src=images/nexar_logo.png width=135/>
 
