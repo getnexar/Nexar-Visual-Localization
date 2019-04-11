@@ -5,7 +5,7 @@
 
 ![triplets](images/triplets.png)
 
-Accurate vehicle localization is a crucial step towards building effective Vehicle-to-Vehicle networks and automotive applications. Here, we publish our dataset for training visual localization model, based on real world data. 
+Accurate vehicle localization is a crucial step towards building effective Vehicle-to-Vehicle networks and automotive applications. Here, we publish our diverse dataset for training and benchmarking visual localization models, based on large-scale real world data. 
 
 _Created by Nexar &reg;_
 
