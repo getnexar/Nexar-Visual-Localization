@@ -1,8 +1,8 @@
 # Robust-Visual-Localization-for-Automotive-Applications
 
-<img src=images/nexar_logo.jpeg width=135/>
+<img src=images/nexar_logo.png width=135/>
 
-![triplets](images/triplets.jpg)
+![triplets](images/triplets.png)
 
 Extensive experiments demonstrate that extra depth information helps networks to determine driving policies indeed. We hope it will become useful resources for the autonomous driving research community.
 
