@@ -5,7 +5,7 @@
 
 ![triplets](images/triplets.png)
 
-%## Introduction
+## Introduction
 
 Accurate vehicle localization is a crucial step towards building effective Vehicle-to-Vehicle networks and automotive applications. Here, we publish our diverse dataset for training and benchmarking visual localization models, based on large-scale real world data. This dataset is used in our [research paper](https://arxiv.org/abs/1905.0000), in which we propose a robust visual localization approach for automotive applications. The research paper appears in the proceedings for CVPR 2019 Workshop on Autonomous Driving. 
 
