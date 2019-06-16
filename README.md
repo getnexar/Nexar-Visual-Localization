@@ -18,7 +18,7 @@ Our dataset was collected from a largescale deployment of connected dashcams. Ea
 
 ## Benchmark
 _Coming soon!_
-
+<!--
 ## Citation
 If you wish to use our dataset, please use the following bibtex for citation:
 
@@ -29,6 +29,6 @@ If you wish to use our dataset, please use the following bibtex for citation:
 	  month = {June},
 	  year = {2019}
 	}
-
+-->
 ## License
 Copyright [Nexar Inc.](https://getnexar.com/)
