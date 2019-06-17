@@ -11,14 +11,10 @@ Accurate vehicle localization is a crucial step towards building effective Vehic
 
 _Created by Nexar&reg;_
 
-### ___The full visual localization dataset and benchmark will be published here soon. Stay tuned!___
-
-## Dataset
+## Dataset & Benchmark
 Our dataset was collected from a largescale deployment of connected dashcams. Each vehicle is equipped with a dashacam and a companion smartphone app that continuously captures and uploads sensor data such as GPS readings. The dataset published here contains 200 video sequences taken at different lighting and weahter conditions. 
 To download the dataset, please fill in the form [here](https://docs.google.com/forms/d/1IcdL3AH4UMuiXnLNHN414IfQJNJZlZxbHnr2BmxJ2lE)
 
-## Benchmark
-_Coming soon!_
 <!--
 ## Citation
 If you wish to use our dataset, please use the following bibtex for citation:
